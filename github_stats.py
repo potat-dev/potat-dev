@@ -228,11 +228,11 @@ class Stats(object):
                  session: aiohttp.ClientSession,
                  exclude_repos: Optional[Set] = None,
                  exclude_langs: Optional[Set] = None,
-                 consider_forked_repos: bool = False):
+                 ignore_forked_repos: bool = False):
         self.username = username
         self._exclude_repos = set() if exclude_repos is None else exclude_repos
         self._exclude_langs = set() if exclude_langs is None else exclude_langs
-        self._consider_forked_repos = consider_forked_repos
+        self._consider_forked_repos = not ignore_forked_repos
         self.queries = Queries(username, access_token, session)
 
         self._name = None
