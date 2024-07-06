@@ -1,20 +1,40 @@
-# Hi, I'm Denis Churilov
+# Hi, I'm Denis Churilov <img heigth="32" width="32" alt="cat" src="https://github.com/potat-dev/potat-dev/raw/main/assets/cat/grey.gif" />
 
 <details>
-  <summary>Full Stack Developer & DevOps Engineer from Saint Petersburg, Russia</summary>
-  <br>
-  <img alt="GIF" height=200 src="https://github.com/potat-dev/potat-dev/raw/main/assets/meme/java-my-beloved.gif" />
-  <br>
+<summary>
+  Full Stack Developer & DevOps Engineer from Saint Petersburg, Russia
+</summary>
+
+### Reasons NOT to Hire Me
+
+<table>
+<tr>
+<td align="center" width="680">
+
+```mermaid
+pie
+  "None" : 50
+  "None, but in a different color" : 40
+  "You have a small penis" : 10
+```
+
+</td>
+</tr>
+</table>
+
+<!-- <img alt="GIF" height=200 src="https://github.com/potat-dev/potat-dev/raw/main/assets/meme/java-my-beloved.gif" /> -->
+
 </details>
 
-| <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=potat-dev&count_private=true&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=percentile&hide_rank=true&custom_title=My%20GitHub%20Stats&card_width=270" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=potat-dev&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=6&hide=html,css&card_width=320" /></p> |
-|------|
+<table>
+<tr>
+<td>
 
-<!-- original code for stats in a table cell
-<p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cypotat&count_private=true&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats&card_width=270" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypotat&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=6&hide=html,css&card_width=320" />
-</p>
--->
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=potat-dev&count_private=true&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=percentile&hide_rank=true&custom_title=My%20GitHub%20Stats&card_width=270" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=potat-dev&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&hide=html,css&card_width=320" />
+</div>
 
-<!-- <img heigth="28" width="28" alt="GIF" src="https://github.com/cypotat/cypotat/raw/main/assets/cat/grey.gif" /> -->
+</td>
+</tr>
+</table>
