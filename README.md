@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-  Full Stack Developer & DevOps Engineer from Saint Petersburg, Russia
+  &nbsp;Full Stack Developer & DevOps Engineer from Saint Petersburg, Russia
 </summary>
 
 ### Reasons NOT to Hire Me
@@ -12,6 +12,10 @@
 <td align="center" width="680">
 
 ```mermaid
+---
+open in browser if not rendering
+or compile this code in ur head lol
+---
 pie
   "None" : 50
   "None, but in a different color" : 40
