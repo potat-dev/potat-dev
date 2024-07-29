@@ -2,25 +2,35 @@
 
 <details>
 <summary>
-  &nbsp;Full Stack Developer & DevOps Engineer from Saint Petersburg, Russia
+  &nbsp;Full Stack Developer, Open Source Enthusiast, DevOps Engineer
 </summary>
 
 ### Top 3 reasons not to hire me:
 
 <table>
 <tr>
-<td align="center" width="680">
+<td width="680">
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pieLegendTextSize': '18px', 'pieLegendTextColor' : '#808080', 'pieSectionTextColor': 'black', 'pie1': '#70a5fd', 'pie2': '#38bdae', 'pie3': '#bf91f3'}}}%%
 ---
-open in browser if not rendering
-or compile this code in ur head lol
+config:
+  theme: base
+  themeVariables:
+    pieLegendTextSize: "18px"
+    pieLegendTextColor: "#808080"
+    pieSectionTextColor: "black"
+    pie1: "#70a5fd"
+    pie2: "#38bdae"
+    pie3: "#bf91f3"
+
+# open in browser if not rendering
+# made with <3 only as a joke
 ---
+
 pie
-  "None" : 50
-  "None, but in a different color" : 40
-  "You have a small penis" : 10
+  "None": 50
+  "None, but in a different color": 40
+  "You have a small penis": 10
 ```
 
 </td>
