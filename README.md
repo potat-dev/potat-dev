@@ -46,8 +46,8 @@ pie
 <td width="680">
 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=potat-dev&count_private=true&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&rank_icon=percentile&hide_rank=true&custom_title=My%20GitHub%20Stats&card_width=270" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=potat-dev&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&hide=html,css&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=potat-dev&count_private=true&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats&card_width=270" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=potat-dev&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook&card_width=320" />
 </div>
 
 </td>
